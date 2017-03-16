@@ -1,1 +1,2 @@
-# e-regit-cloneCreating a new branch is quick & simple.
+
+# e-regit-cloneCreating a new branch is quick AND simple.
